@@ -57,11 +57,14 @@ Power the system with a Li-Po battery connected to the BAT+ and GND pads.
 ```bash
 git clone https://github.com/adityabangde/AirWrite-Ring.git
 cd airwrite-ring
-
+```
 ---
+
+
 ### Install Python dependencies
 
 Make sure you have **Python 3.8+** and **pip** installed, then run:
 
 ```bash
 pip install -e .
+```
