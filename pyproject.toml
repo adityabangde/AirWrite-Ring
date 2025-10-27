@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "airwrite_ring"
+version = "0.1.0"
+description = "Smart ring using ESP32S3 + MPU6050 to recognize air-drawn letters."
+dependencies = [
+    "bleak>=0.22.0",
+]
