@@ -44,9 +44,10 @@ Some design and mechanical ideas were inspired by the following open-source proj
 Connect the MPU6050 and TTP223 sensor to the XIAO ESP32S3 according to the table above.  
 Power the system with a Li-Po battery connected to the BAT+ and GND pads.
 
-![All components soldered and wired together, ready for assembly.](media/prototype.jpg) 
-![Final assembly.](media/prototype.jpg) 
-![Completed Prototype.](media/prototype.jpg) 
+![All components soldered and wired together, ready for assembly.](media/all_soldered_components.jpg) 
+![Final assembly.](media/final_assembly.jpg) 
+![With antenna.](media/with_antenna.jpg) 
+![Completed Prototype.](media/complete_prototype.jpg) 
 
 ---
 
