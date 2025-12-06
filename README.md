@@ -33,7 +33,7 @@ You can directly print the provided STL file or modify it as needed.
 ---
 
 ## Credits
-Some design and mechanical ideas were inspired by the following open-source projects and creators:
+Some design and mechanical ideas were inspired by the following open-source projects and creatorss:
 
 - [3D printed case for the TTP223 touch module](https://www.printables.com/model/180416-touch-sensor-ttp223-for-fischertechnik)
 
